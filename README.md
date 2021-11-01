@@ -5,4 +5,5 @@ This blog was created by the following authors:
 
 2.Damilola Rebecca
 
-![image](https://user-images.githubusercontent.com/88321504/139646259-5b262c70-095f-476e-abe8-9e03ee03c125.jpg)
+
+![bg](https://user-images.githubusercontent.com/88321504/139646611-8f40ca71-1cc8-4106-8d31-58dceb5242ad.jpg)
